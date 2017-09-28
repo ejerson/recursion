@@ -1,0 +1,9 @@
+// too large for an int
+edu.cnm.deepdive.recursion.Factorial.factorial(69)
+	.divide(edu.cnm.deepdive.recursion.Factorial.factorial(64)) 
+	.divide(edu.cnm.deepdive.recursion.Factorial.factorial(5)) // 0
+
+edu.cnm.deepdive.recursion.Factorial.factorial(21)
+
+edu.cnm.deepdive.recursion.Factorial.factorial(1000)
+
